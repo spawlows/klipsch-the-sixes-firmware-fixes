@@ -1,4 +1,6 @@
-﻿## Step 3: Start Debugging
+﻿# Patching
+
+## Step 3: Start Debugging
 
 Use MPLAB IPE to read and copy the MCU firmware.
 
@@ -340,3 +342,12 @@ ASM:
 
 This patch modifies the input behavior before proceeding with the more complex and detailed analysis of the Bluetooth module's functionality. Further steps will focus on troubleshooting and identifying the root cause of Bluetooth communication issues.
 
+## Technical Documentation Map
+
+### Sections:
+1. **Firmware analysis** → [01_firmware_analysis.md](01_firmware_analysis.md)
+2. **Patching** → This page
+3. **Bluetooth hardware** → [03_bluetooth_hardware.md](03_bluetooth_hardware.md)
+4. **Appendix - PICkit 3 Connection Guide** → [pickit_connection.md](pickit_connection.md)
+
+[Back to README](../README.md)

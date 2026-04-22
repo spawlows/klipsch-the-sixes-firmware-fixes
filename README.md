@@ -45,7 +45,11 @@ These three main issues are interconnected, and it is unclear which is the root 
 - Random shutdowns; audio stops after 20–40 minutes
 - Bluetooth LED blinking; unable to pair
 
-## Technical Documentation
-- Firmware analysis → [01_firmware_analysis.md](docs/01_firmware_analysis.md)
-- Patching → [02_patching.md](docs/02_patching.md)
-- Bluetooth hardware → [03_bluetooth_hardware.md](docs/03_bluetooth_hardware.md)
+
+## Technical Documentation Map
+
+### Sections:
+1. **Firmware analysis** → [01_firmware_analysis.md](docs/01_firmware_analysis.md)
+2. **Patching** → [02_patching.md](docs/02_patching.md)
+3. **Bluetooth hardware** → [03_bluetooth_hardware.md](docs/03_bluetooth_hardware.md)
+4. **Appendix - PICkit 3 Connection Guide** → [pickit_connection.md](docs/pickit_connection.md)
